@@ -4,11 +4,11 @@
 
 ### One platform for higher-education administration, admissions, student services and continuous quality improvement.
 
-[![Administrator guide](https://img.shields.io/badge/Documentation-Administrator%20guide-2563eb?style=for-the-badge)](https://hollishake.github.io/edusync-base/)
+[![Official website & docs](https://img.shields.io/badge/Official%20Website-Documentation-2563eb?style=for-the-badge)](https://hollishake.github.io/edusync-base/)
 ![Proprietary](https://img.shields.io/badge/License-Proprietary-b91c1c?style=for-the-badge)
 ![Platforms](https://img.shields.io/badge/Platforms-Web%20%7C%20Android%20%7C%20iOS-0f766e?style=for-the-badge)
 
-[**Overview**](#overview) · [**Features**](#product-features) · [**Roles**](#built-for-every-role) · [**Workflows**](#key-workflows) · [**Technology**](#technology) · [**Documentation**](#documentation)
+[**Overview**](#overview) · [**Features**](#product-features) · [**Roles**](#built-for-every-role) · [**Workflows**](#key-workflows) · [**Technology**](#technology) · [**Documentation**](#documentation) · [**Official website**](https://hollishake.github.io/edusync-base/)
 
 </div>
 
@@ -207,11 +207,16 @@ flowchart TB
 
 ## Documentation
 
-Product and administration documentation is available in the **[EduSync Administrator guide](https://hollishake.github.io/edusync-base/)**.
+📘 **Official website and documentation:** [hollishake.github.io/edusync-base](https://hollishake.github.io/edusync-base/)
+
+The official site hosts the **EduSync Administrator guide**, covering product setup and administration.
 
 ---
 
 ## Frequently asked questions
+
+**Where is the official documentation?**
+The official website and Administrator guide are at [hollishake.github.io/edusync-base](https://hollishake.github.io/edusync-base/).
 
 **Is EduSync open source?**
 No. EduSync is proprietary software, and no license to copy, modify, distribute, or create derivative works is granted.
